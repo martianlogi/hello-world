@@ -1,2 +1,3 @@
 # hello-world
-hello world test martian logi otama
+martian logi otama, programmer various programming language,
+fun to developt programs.
